@@ -1,2 +1,4 @@
 hello world!
-Here is some change = =
+
+day 1:
+	for thesis,familiar with git, learn the fundament of python
